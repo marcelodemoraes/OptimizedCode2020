@@ -1,2 +1,2 @@
 # OptimizedCode2020
-My codes for University of São Paulo "SSC0951 - Development of optimized code" class
+My codes for "SSC0951 - Development of optimized code" class at University of São Paulo.
