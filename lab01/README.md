@@ -8,4 +8,4 @@ Change looping order toward achiving more cache hits.
 
 ## Loop Unrolling
 
-Incrise de amount of multiplied elements in order to avoid branch misses.
+Incrise the amount of multiplied elements in order to avoid branch misses.
